@@ -1,9 +1,3 @@
-// var paises = ["España","Suiza","Portugal"];
-// var redes = ["Facebook","Tuenti","Youtube","Hotmail","Marca","Google","Blick","Jogos","Download"];
-// for (var i = 0; i < paises.length; i++){
-// 	console.log("El pais en la posicion "+i+" es: "+paises[i]);	
-// }
-
 let tabla = [
 	{
 		pais:"España", 
